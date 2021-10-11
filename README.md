@@ -1,5 +1,3 @@
-# Desafio-Mobile2You
-
 # Desafio Mobile 2 You - Outubro/2021
 
 # Arquitetura utilizada 
