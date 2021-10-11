@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio-Mobile2You</string>
+    <string name="qtdLikes">likes</string>
+    <string name="qtdViews">views</string>
+</resources>
